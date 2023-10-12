@@ -45,3 +45,11 @@
 // console.log (  x < 10 && y < 1)
 // console.log ( x==5||y==5)
 
+// let p = document.querySelector ("P")
+// let button = document.querySelector ("button")
+// let input = document.querySelector("input")
+// button.addEventListener('click', function(){
+//     let isi = input.value
+//     console.log(isi)
+//     p.innerHTML = isi
+//    })
